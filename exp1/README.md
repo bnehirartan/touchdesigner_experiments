@@ -1,7 +1,6 @@
-# Project 1 - [experimenting audio reactive visuals]
+# Project 1 - [experimenting audio reactive visual generation]
 
-
-![image](https://github.com/user-attachments/assets/4b15a1d5-6a6b-4ac4-8fd8-d5425077e396)
+![image](https://github.com/user-attachments/assets/42a40b78-6fc4-4c59-851c-962aee12a6fe)
 
 
 This project demonstrates audio-reactive visuals using TouchDesigner. 
