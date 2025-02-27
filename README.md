@@ -1,2 +1,2 @@
 # touchdesigner_experiments
-beginner-level experimenting with TouchDesigner
+beginner-level projects with TouchDesigner
